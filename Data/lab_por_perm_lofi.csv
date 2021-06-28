@@ -1,0 +1,11 @@
+﻿Sample,Well,Sample Label,Depth [m],Lithology,Laboratory Porosity [%],Permeability [mD]
+P1,M27,171-R1,489.77,sandstones,46.3,75
+P2,M27,174-R1,494.51,sandstones,40.1,43
+P3,M27,174-R1,494.51,sandstones,45.7,6
+P4,M28,12-R1,254.01,silty claystone,53,0.1
+P5,M28,40-R1,327.55,sandstone,31.8,2.5
+P6,M28,123-R1,540.04,sandstone,24,0.008
+P7,M29,72-R1,343.58,siltstone,3,0.0006
+P8,M29,119-R1,479.52,siltstone,0.4,0.0001
+P9,M29,164-R2,611.87,sandstone,14,0.004
+P10,M29,173-R1,636.23,sandstone,29.1,0.4
