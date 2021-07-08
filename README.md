@@ -20,3 +20,4 @@ Notebooks
 * (5) Post-processing (Ariel)
     * Input: Porosity model 
     * Output: Permeability conversion
+* (6) Plotting routines
