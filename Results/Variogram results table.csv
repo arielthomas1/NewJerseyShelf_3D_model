@@ -1,8 +1,8 @@
 ,Sequence,Model,Z Range (Well Data),Y Angle (Attr),Y Range (Attr),X Angle (Attr),X Range (Attr),Anisotropy Ratio (X/Y/Z),Comment
-0,m1,Exponential,13.666182429108522,-0.12,1985.6312,0.0,3893.9835,[285 145   1],*Strike direction corrected (underlying sequence) - seismic processing
-1,m41,Exponential,13.666182429108522,-0.21,2215.8159,-0.19,3893.9835,[285 162   1],
-2,m5,Exponential,13.666182429108522,-0.11,3085.0943,-0.0,4007.9138,[293 226   1],*Strike direction corrected (underlying sequence) - lacking data
-3,m54,Exponential,13.666182429108522,-0.06,3356.358,0.03,4007.9138,[293 246   1],
-4,m58,Exponential,13.666182429108522,-0.64,1973.5141,0.18,3193.2357,[234 144   1],
-5,m6,Exponential,13.666182429108522,-0.53,2318.2074,0.23,7456.5615,[546 170   1],
-6,o1,Exponential,13.666182429108522,-0.35,1253.1216,0.46,7424.9617,[543  92   1],
+0,m1,Exponential,13.666182429108522,-0.12,2403.5082,0.0,3796.7417,[278 176   1],*Strike direction corrected (underlying sequence) - seismic processing
+1,m41,Exponential,13.666182429108522,-0.19,2393.225,-0.01,3796.7417,[278 175   1],
+2,m5,Exponential,13.666182429108522,-0.11,3446.7646,-0.0,4180.385,[306 252   1],*Strike direction corrected (underlying sequence) - lacking data
+3,m54,Exponential,13.666182429108522,-0.07,2433.9556,0.08,4180.385,[306 178   1],
+4,m58,Exponential,13.666182429108522,-0.55,1822.0768,0.18,3075.8892,[225 133   1],
+5,m6,Exponential,13.666182429108522,-0.58,2271.581,0.06,4398.6008,[322 166   1],
+6,o1,Exponential,13.666182429108522,-0.34,1364.5446,0.47,7425.5625,[543 100   1],
